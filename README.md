@@ -3,3 +3,4 @@ Analyzes your Medical report and gives you information about you health conditio
 
 A Real-Time Medical Report Analysis and AI-Powered Diagnosis: A Cloud-Based Solution for Improved Patient Care | IEEE Conference Publication | IEEE Xplore https://share.google/7zatjpdTqODBkww4g
 
+Evolution of medical reports over time: an analysis using Dynamic Topic Modeling | IEEE Conference Publication | IEEE Xplore https://share.google/dikibFqAJgqBKVznL
